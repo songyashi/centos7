@@ -1,0 +1,3 @@
+#暂时关闭selinux
+setenforce 0
+
